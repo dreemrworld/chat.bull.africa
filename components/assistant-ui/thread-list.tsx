@@ -25,7 +25,7 @@ const ThreadListNew: FC = () => {
         variant="ghost"
       >
         <PlusIcon />
-        New Thread
+        New Chat
       </Button>
     </ThreadListPrimitive.New>
   );

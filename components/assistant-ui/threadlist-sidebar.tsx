@@ -24,7 +24,7 @@ export function ThreadListSidebar({
             <SidebarMenuItem>
               <SidebarMenuButton size="lg" asChild>
                 <Link
-                  href="https://assistant-ui.com"
+                  href="https://github.com/dreemrworld/chat.bull.africa"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
