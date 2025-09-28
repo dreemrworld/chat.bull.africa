@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Github, MessagesSquare } from "lucide-react";
+import { MessagesSquare } from "lucide-react";
 import Link from "next/link";
 import {
   Sidebar,
