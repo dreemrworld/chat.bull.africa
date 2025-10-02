@@ -1,6 +1,6 @@
 "use client";
 
-import { AssistantRuntimeProvider } from "@assistant-ui/react";
+import { AssistantRuntimeProvider, AssistantCloud } from "@assistant-ui/react";
 import {
   useChatRuntime,
   AssistantChatTransport,
@@ -15,8 +15,14 @@ import { ThreadListSidebar } from "@/components/assistant-ui/threadlist-sidebar"
 import { Separator } from "@/components/ui/separator";
 import { ThemeToggle } from "@/components/theme-toggle";
 
+const cloud = new AssistantCloud({
+  baseUrl: process.env["NEXT_PUBLIC_ASSISTANT_BASE_URL"]!,
+  anonymous: true,
+});
+
 export const Assistant = () => {
   const runtime = useChatRuntime({
+    cloud,
     transport: new AssistantChatTransport({
       api: "/api/chat",
     }),
