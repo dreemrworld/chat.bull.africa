@@ -25,21 +25,28 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 ## Made with 
-Cloudflare workers
+NextJS 15
 AI SDK 5
 Assistant-ui
+Cloudflare workers
+
+## Features 
+Modern
+Battery packed
+Free
+Light/dark mode
 
 ## Coming soon
-Web search
-D1
-R2
-kv
-Agents
+Web Search,D1,R2,KV,Agents
 
 ## About developer
 My name is Carlos Alberto, I am a self-taught fullstack developer based in sunny Luanda, Angola. I am the creator and owner of bull.africa and goat.africa.  More about me https://dev.goat.africa/
 
 ## Many thanks
-[assistant-ui](https://github.com/Yonom/assistant-ui) starter project.
+[assistant-ui](https://github.com/Yonom/assistant-ui) for the starter project template.
 
 ## Leave a star! 
+Feel free to clone, fork or contribute. If you have any questions contact me on carlos@goat.africa. 
+
+## MIT Licence
+Made for the opensource community.  
