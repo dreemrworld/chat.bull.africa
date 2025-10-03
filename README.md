@@ -5,6 +5,7 @@ First, add your Gemini API key to `.env.local` file:
 
 ```
 GOOGLE_GENERATIVE_AI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
 ```
 
 Then, run the development server:
