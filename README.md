@@ -92,19 +92,13 @@ https://github.com/dreemrworld/free-llm-api-resources
  9. Screenshots made with chrome extension [Mobile Responsive Simulator](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) 
 
 ## Screenshots 
-Mobile responsive and frictionless scrolling on any device.  NB final responsive output depends on your browser's zoom settings and your device's accessibility settings. Screenshots are for reference purposes only.
+Mobile responsive and frictionless scrolling on any device.  NB final responsive output depends on your browser's zoom settings and your device's accessibility settings. Screenshots are for reference purposes only. **Galaxy S21 Ultra**, **Xiaomi 12**,**Mac Book Air**. More screenshots available ([here](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images)).
  
-**Galaxy S21 Ultra** 
 <img src="./public/images/Galaxy-S21-Ultra-chat.bull.africa.png"/>
 
-**Xiaomi 12** 
 <img src="./public/images/Xiaomi-12-chat.bull.africa-dark.png"/>
 
-**Mac Book Air**
 <img src="./public/images/Macbook-Air-chat.bull.africa-dark.png"/>
-
-More screenshots available ([here](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images)).
-
 
 ## Why leave a star? :star2:
 Don't star it because it's a free, opensource and modern AI chatbot you can instantly deploy on Cloudflare's global edge network. Star it so more people can find it, use it, save money and time! :rocket::rocket::rocket: :sparkles::sparkles::sparkles:
