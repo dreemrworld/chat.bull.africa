@@ -43,17 +43,17 @@ That's it! You now have your own functioning and modern AI chatbot deployed in 3
 
 ## Features 
 
- - Mobile responsive 
- - FOSS
- - Modern look and feel
- - Instant deployment on cloudlare workers,
- - Light/dark mode
- - Personalized AI answers 
- - Live [demo](https://chat.bull.africa/). Try asking  "who made you?"
+ - Mobile responsive :white_check_mark:
+ - FOSS :white_check_mark:
+ - Modern look and feel :white_check_mark:
+ - Instant deployment on Cloudflare workers :white_check_mark:
+ - Light/dark mode :white_check_mark:
+ - Personalized AI answers :white_check_mark:
+ - Live [demo](https://chat.bull.africa/) :white_check_mark:
 
 ## Coming soon
 
- - Web Search
+ - Web Search :white_check_mark:
  - Image generation
  - Voice control
  - Button to switch between different AI models 
