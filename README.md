@@ -96,13 +96,14 @@ Mobile responsive and frictionless scrolling on any device.  NB final responsive
  
 **Galaxy S21 Ultra** 
 <img src="./public/images/Galaxy-S21-Ultra-chat.bull.africa.png"/>
+
 **Xiaomi 12** 
 <img src="./public/images/Xiaomi-12-chat.bull.africa.png"/>
 
 **Mac Book Air**
 <img src="./public/images/Macbook-Air-chat.bull.africa-dark.png"/>
 
-More screenshots available of compatibility with other devices ([view](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images)).
+More screenshots available ([here](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images)).
 
 
 ## Why leave a star? :star2:
