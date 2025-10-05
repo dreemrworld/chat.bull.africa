@@ -73,7 +73,7 @@ If you have any questions contact me on [carlos@goat.africa](mailto:carlos@goat.
 ## About me
 My name is [Carlos Araújo](https://dev.goat.africa/), I subscribe to Garry Kasparov's vision in [Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.amazon.com/Deep-Thinking-Machine-Intelligence-Creativity/dp/161039786X) . 
 
-I am bullish on Artificial Intelligence in Africa because I am bullish on African Intelligence. My programming journey started only 10 months ago. I experienced first hand the power of accelerated learning thanks to AI example Stockfish taught me how to play chess and now [Deepseek](https://chat.deepseek.com/) ,  [Qwen 3 Coder](https://chat.qwen.ai/) , Kimi and [Gemini](https://gemini.google.com/chat) are teaching me how to make useful webapps. 
+I am bullish on Artificial Intelligence in Africa because I am bullish on African Intelligence in Africa. I am experiencing first hand the power of accelerated learning thanks to AI. Example is Stockfish taught me how to play chess and now [Deepseek](https://chat.deepseek.com/) ,  [Qwen 3 Coder](https://chat.qwen.ai/) , Kimi and [Gemini](https://gemini.google.com/chat) are teaching me how to make useful webapps. For reference my programming journey started 10 months ago from zero.
 
 I want as many people as possible to become a VICTOR of the AI revolution and not just a victim.  
 
