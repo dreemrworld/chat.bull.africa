@@ -1,6 +1,6 @@
 
 ## Made with :hearts:
-These are my handpicked ingredients based on quality, compatibility, latency, security and cost. 
+These are my handpicked ingredients based on modernity, quality, compatibility, latency, security and cost. 
 
  - NextJS 15
  - AI SDK 5
