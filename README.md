@@ -45,7 +45,8 @@ That's it! You now have your own functioning and modern AI chatbot deployed in 3
  - Modern look and feel
  - Instant deployment on cloudlare workers,
  - Light/dark mode
- - Personalized AI answers 
+ - Personalized AI answers
+ - Thread history with automated titles
  - Live [demo](https://chat.bull.africa/). Try asking  "who made you?"
 
 ## Coming soon
