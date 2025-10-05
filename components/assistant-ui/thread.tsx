@@ -16,6 +16,8 @@ import {
   PencilIcon,
   RefreshCwIcon,
   Square,
+  AudioLinesIcon,
+  StopCircleIcon,
 } from "lucide-react";
 import type { FC } from "react";
 
@@ -211,6 +213,20 @@ const AssistantActionBar: FC = () => {
       autohideFloat="single-branch"
       className="aui-assistant-action-bar-root col-start-3 row-start-2 -ml-1 flex gap-1 text-muted-foreground data-floating:absolute data-floating:rounded-md data-floating:border data-floating:bg-background data-floating:p-1 data-floating:shadow-sm"
     >
+      <MessagePrimitive.If speaking={false}>
+        <ActionBarPrimitive.Speak asChild>
+          <TooltipIconButton tooltip="Read aloud">
+            <AudioLinesIcon />
+          </TooltipIconButton>
+        </ActionBarPrimitive.Speak>
+      </MessagePrimitive.If>
+      <MessagePrimitive.If speaking>
+        <ActionBarPrimitive.StopSpeaking asChild>
+          <TooltipIconButton tooltip="Stop">
+            <StopCircleIcon />
+          </TooltipIconButton>
+        </ActionBarPrimitive.StopSpeaking>
+      </MessagePrimitive.If>
       <ActionBarPrimitive.Copy asChild>
         <TooltipIconButton tooltip="Copy">
           <MessagePrimitive.If copied>

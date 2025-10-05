@@ -1,6 +1,6 @@
 "use client";
 
-import { AssistantRuntimeProvider, AssistantCloud } from "@assistant-ui/react";
+import { AssistantRuntimeProvider, AssistantCloud, WebSpeechSynthesisAdapter } from "@assistant-ui/react";
 import {
   useChatRuntime,
   AssistantChatTransport,
@@ -26,6 +26,9 @@ export const Assistant = () => {
     transport: new AssistantChatTransport({
       api: "/api/chat",
     }),
+    adapters: {
+      speech: new WebSpeechSynthesisAdapter(),
+    },
   });
 
   return (
