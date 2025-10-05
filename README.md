@@ -1,3 +1,4 @@
+<img src="./public/images/og-image.jpg"/>
 
 ## Made with :hearts:
 These are my handpicked ingredients based on modernity, quality, compatibility, latency, security and cost. 
