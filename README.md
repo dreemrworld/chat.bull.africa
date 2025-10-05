@@ -1,3 +1,4 @@
+
 <img src="./public/images/og-image.jpg"/>
 
 
@@ -97,6 +98,8 @@ Mobile responsive and frictionless scrolling on any device.  NB final responsive
 <img src="./public/images/Galaxy-S21-Ultra-chat.bull.africa.png"/>
 
 <img src="./public/images/Xiaomi-12-chat.bull.africa-dark.png"/>
+
+<img src="./public/images/Macbook-Air-chat.bull.africa.png"/>
 
 <img src="./public/images/Macbook-Air-chat.bull.africa-dark.png"/>
 
