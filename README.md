@@ -98,7 +98,7 @@ Mobile responsive and frictionless scrolling on any device.  NB final responsive
 <img src="./public/images/Galaxy-S21-Ultra-chat.bull.africa.png"/>
 
 **Xiaomi 12** 
-<img src="./public/images/Xiaomi-12-chat.bull.africa.png"/>
+<img src="./public/images/Xiaomi-12-chat.bull.africa-dark.png"/>
 
 **Mac Book Air**
 <img src="./public/images/Macbook-Air-chat.bull.africa-dark.png"/>
