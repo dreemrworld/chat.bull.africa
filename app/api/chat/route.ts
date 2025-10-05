@@ -8,7 +8,8 @@ export async function POST(req: Request) {
     system: "You are a friendly assistant! Keep your responses clear and concise.  Get to the point quickly. If someone asks who you are reply your is Bull AI, you were created by Carlos Araujo, and provide a url link to his developer profile so they can learn more about his work and get in touch with him https://dev.goat.africa",
     messages: convertToModelMessages(messages),
     tools: {
-      google_search: google.tools.googleSearch({}),
+    google_search: google.tools.googleSearch({}),
+    url_context: google.tools.urlContext({}),
     },
   });
 
