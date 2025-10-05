@@ -1,7 +1,8 @@
 <img src="./public/images/og-image.jpg"/>
 
+
 ## Made with :hearts:
-These are my handpicked ingredients based on modernity, quality, compatibility, latency, security and cost. 
+These are my handpicked ingredients (tech stack) based on modernity, quality, compatibility, latency, security and cost.
 
  - NextJS 15
  - AI SDK 5
@@ -46,8 +47,7 @@ That's it! You now have your own functioning and modern AI chatbot deployed in 3
  - Modern look and feel
  - Instant deployment on cloudlare workers,
  - Light/dark mode
- - Personalized AI answers
- - Thread history with automated titles
+ - Personalized AI answers 
  - Live [demo](https://chat.bull.africa/). Try asking  "who made you?"
 
 ## Coming soon
@@ -75,7 +75,7 @@ If you have any questions contact me on [carlos@goat.africa](mailto:carlos@goat.
 ## About me
 My name is [Carlos Araújo](https://dev.goat.africa/), I subscribe to Garry Kasparov's vision in [Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://www.amazon.com/Deep-Thinking-Machine-Intelligence-Creativity/dp/161039786X) . 
 
-I am bullish on Artificial Intelligence in Africa because I am bullish on African Intelligence in Africa. I am experiencing first hand the power of accelerated learning thanks to AI. Example is Stockfish taught me how to play chess and now [Deepseek](https://chat.deepseek.com/) ,  [Qwen 3 Coder](https://chat.qwen.ai/) , Kimi and [Gemini](https://gemini.google.com/chat) are teaching me how to make useful webapps. For reference my programming journey started 10 months ago from zero.
+I am bullish on Artificial Intelligence in Africa because I am bullish on African Intelligence. My programming journey started only 10 months ago. I experienced first hand the power of accelerated learning thanks to AI example Stockfish taught me how to play chess and now [Deepseek](https://chat.deepseek.com/) ,  [Qwen 3 Coder](https://chat.qwen.ai/) , Kimi and [Gemini](https://gemini.google.com/chat) are teaching me how to make useful webapps. 
 
 I want as many people as possible to become a VICTOR of the AI revolution and not just a victim.  
 
@@ -88,8 +88,24 @@ https://github.com/dreemrworld/free-llm-api-resources
  5. Live demo of this repo https://chat.bull.africa/
  6. My fork of vercel/ai-chatbot (my first ai project) they look identical but are totally different  https://chat.goat.africa/
  7. My dev profile https://dev.goat.africa/
+ 8. I wrote this readme with [StackEdit](https://stackedit.io/).
+ 9. Screenshots made with chrome extension [Mobile Responsive Simulator](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) 
+
+## Screenshots 
+Mobile responsive and frictionless scrolling on any device.  NB final responsive output depends on your browser's zoom settings and your device's accessibility settings. Screenshots are for reference purposes only.
+ 
+**Galaxy S21 Ultra** 
+<img src="./public/images/Galaxy-S21-Ultra-chat.bull.africa.png"/>
+**Xiaomi 12** 
+<img src="./public/images/Xiaomi-12-chat.bull.africa.png"/>
+
+**Mac Book Air**
+<img src="./public/images/Macbook-Air-chat.bull.africa-dark.png"/>
+
+More screenshots available of compatibility with other devices ([view](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images)).
+
 
 ## Why leave a star? :star2:
 Don't star it because it's a free, opensource and modern AI chatbot you can instantly deploy on Cloudflare's global edge network. Star it so more people can find it, use it, save money and time! :rocket::rocket::rocket: :sparkles::sparkles::sparkles:
 
-May the yield be with you! 
+*May the yield be with you!* 
