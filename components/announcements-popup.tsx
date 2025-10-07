@@ -51,11 +51,6 @@ function AnnouncementItem({ announcement }: { announcement: Announcement }) {
       </div>
       <div className="mt-3 flex items-center justify-between text-xs text-muted-foreground">
         <span>{announcement.date}</span>
-        {announcement.version && (
-          <span className="rounded-full bg-primary/10 px-2 py-1 text-xs font-medium text-primary">
-            {announcement.version}
-          </span>
-        )}
       </div>
     </div>
   );
