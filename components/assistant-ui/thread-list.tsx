@@ -41,7 +41,7 @@ const ThreadListItem: FC = () => {
       <ThreadListItemPrimitive.Trigger className="aui-thread-list-item-trigger flex-grow px-3 py-2 text-start">
         <ThreadListItemTitle />
       </ThreadListItemPrimitive.Trigger>
-      <ThreadListItemArchive />
+      <ThreadListItemDelete />
     </ThreadListItemPrimitive.Root>
   );
 };
@@ -54,16 +54,16 @@ const ThreadListItemTitle: FC = () => {
   );
 };
 
-const ThreadListItemArchive: FC = () => {
+const ThreadListItemDelete: FC = () => {
   return (
-    <ThreadListItemPrimitive.Archive asChild>
+    <ThreadListItemPrimitive.Delete asChild>
       <TooltipIconButton
-        className="aui-thread-list-item-archive mr-3 ml-auto size-4 p-0 text-foreground hover:text-primary"
+        className="aui-thread-list-item-delete mr-3 ml-auto size-4 p-0 text-foreground hover:text-primary"
         variant="ghost"
-        tooltip="Archive thread"
+        tooltip="Delete"
       >
         <ArchiveIcon />
       </TooltipIconButton>
-    </ThreadListItemPrimitive.Archive>
+    </ThreadListItemPrimitive.Delete>
   );
 };

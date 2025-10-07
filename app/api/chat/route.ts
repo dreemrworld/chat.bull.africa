@@ -9,7 +9,7 @@ export async function POST(req: Request) {
     messages: convertToModelMessages(messages),
     tools: {
     google_search: google.tools.googleSearch({}),
-    url_context: google.tools.urlContext({}),
+      url_context: google.tools.urlContext({}),
     },
   });
 

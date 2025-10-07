@@ -14,6 +14,7 @@ import {
 import { ThreadListSidebar } from "@/components/assistant-ui/threadlist-sidebar";
 import { Separator } from "@/components/ui/separator";
 import { ThemeToggle } from "@/components/theme-toggle";
+import { AnnouncementsPopup } from "@/components/announcements-popup";
 
 const cloud = new AssistantCloud({
   baseUrl: process.env["NEXT_PUBLIC_ASSISTANT_BASE_URL"]!,
@@ -42,7 +43,10 @@ export const Assistant = () => {
                 <SidebarTrigger />
                 <Separator orientation="vertical" className="mr-2 h-4" />
               </div>
-              <ThemeToggle />
+              <div className="flex items-center gap-2">
+                <AnnouncementsPopup />
+                <ThemeToggle />
+              </div>
             </header>
             <div className="flex-1 overflow-hidden">
               <Thread />
