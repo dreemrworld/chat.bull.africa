@@ -1,5 +1,5 @@
 export const siteConfig = {
   title: "Bull AI",
-  description: "AI for everyone",
+  description: "Bullish on AI and Africa",
   url: process.env.SITE_URL || "https://chat.bull.africa",
 };

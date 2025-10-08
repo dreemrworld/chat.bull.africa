@@ -132,8 +132,9 @@ const defaultComponents = memoizeMarkdownComponents({
   ),
   a: ({ className, ...props }) => (
     <a
+      target="_blank"
       className={cn(
-        "aui-md-a font-medium text-primary underline underline-offset-4",
+        "aui-md-a font-medium text-primary underline underline-offset-4 hover:bg-accent hover:text-accent-foreground",
         className,
       )}
       {...props}

@@ -42,7 +42,7 @@ export function AnnouncementsPopup() {
 
 function AnnouncementItem({ announcement }: { announcement: Announcement }) {
   return (
-    <div className="rounded-lg border p-4">
+    <div className="rounded-lg border p-4 shadow-sm hover:shadow-md transition-shadow duration-300 ease-in-out">
       <div className="flex items-start justify-between">
         <div className="space-y-2">
           <h3 className="font-semibold text-foreground">{announcement.title}</h3>
