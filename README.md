@@ -1,4 +1,11 @@
 
+## Screenshots 
+Mobile responsive and frictionless scrolling on any device.  NB final responsive output depends on your browser's zoom settings and your device's accessibility settings. Screenshots are for reference purposes only. More screenshots available on different devices like **Galaxy S21 Ultra**, **Xiaomi 12**, **Google Pixel 6 Pro** ([here](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images)).
+ 
+<img src="./public/images/Macbook-Air-chat.bull.africa.png"/>
+
+<img src="./public/images/Macbook-Air-chat.bull.africa-dark.png"/>
+
 <img src="./public/images/og-image.jpg"/>
 
 
@@ -91,13 +98,6 @@ https://github.com/dreemrworld/free-llm-api-resources
  7. My dev profile https://dev.goat.africa/
  8. I wrote this readme with [StackEdit](https://stackedit.io/).
  9. Screenshots made with chrome extension [Mobile Responsive Simulator](https://chromewebstore.google.com/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk) 
-
-## Screenshots 
-Mobile responsive and frictionless scrolling on any device.  NB final responsive output depends on your browser's zoom settings and your device's accessibility settings. Screenshots are for reference purposes only. More screenshots available on different devices like **Galaxy S21 Ultra**, **Xiaomi 12**, **Google Pixel 6 Pro** ([here](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images)).
- 
-<img src="./public/images/Macbook-Air-chat.bull.africa.png"/>
-
-<img src="./public/images/Macbook-Air-chat.bull.africa-dark.png"/>
 
 
 ## Why leave a star? :star2:
