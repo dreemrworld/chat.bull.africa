@@ -24,7 +24,6 @@ Mobile responsive and frictionless scrolling on any device. Screenshots for refe
 More screenshots available for Galaxy S21 Ultra, Xiaomi 12, Google Pixel 6 Pro in [`public/images/`](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images).
 
 ## 🌟 Table of Contents
-## 🌟 Table of Contents
 
 - [Screenshots](#-screenshots)
 - [Features](#-features)
