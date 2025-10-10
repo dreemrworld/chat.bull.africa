@@ -8,10 +8,25 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC)](https://www.typescriptlang.org/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-❤️)](https://github.com/dreemrworld/chat.bull.africa)
 
-> A modern, privacy-first AI chatbot built with cutting-edge technologies. Deploy instantly on Cloudflare's global edge network. Free, open-source, and designed for the AI revolution in Africa.
+> A battery-packed AI chatbot built with Next.js 15 and AI SDK 5. Easy deployment on Cloudflare Workers. Free, open-source, and designed for the AI revolution in Africa.
+
+## 📸 Screenshots
+
+Mobile responsive and frictionless scrolling on any device. Screenshots for reference only - final output depends on browser zoom and device settings.
+
+### Desktop (Light Mode)
+<img src="./public/images/Macbook-Air-chat.bull.africa.png" alt="Desktop Light Mode" width="100%"/>
+
+### Desktop (Dark Mode)
+<img src="./public/images/Macbook-Air-chat.bull.africa-dark.png" alt="Desktop Dark Mode" width="100%"/>
+
+### Mobile Devices
+More screenshots available for Galaxy S21 Ultra, Xiaomi 12, Google Pixel 6 Pro in [`public/images/`](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images).
 
 ## 🌟 Table of Contents
+## 🌟 Table of Contents
 
+- [Screenshots](#-screenshots)
 - [Features](#-features)
 - [Demo](#-demo)
 - [Quick Start](#-quick-start)
@@ -23,7 +38,6 @@
 - [Contact](#-contact)
 - [About](#-about)
 - [Resources](#-resources)
-- [Screenshots](#-screenshots)
 - [Why Star This Repo?](#-why-star-this-repo)
 
 ## 🚀 Features
@@ -33,7 +47,7 @@
 - ✅ **Modern UI/UX**: Built with Assistant-UI and Shadcn/UI
 - ✅ **Instant Deployment**: One-command deploy to Cloudflare Workers
 - ✅ **Light/Dark Mode**: Automatic theme switching
-- ✅ **Cloud Storage**: Assistant-UI cloud storage (200 MAU free, see env.example for setup)  
+- ✅ **Cloud Storage**: Assistant-UI cloud storage (200 MAU free, see env.example for setup)
 - ✅ **Multi-Provider Support**: Choose from OpenAI, Anthropic, Azure, AWS, GCP, Groq, Fireworks, Cohere, Ollama, Chrome AI
 - ✅ **Web Search**: Integrated web search capabilities
 - ✅ **Audio Responses**: Listen to AI responses with client-side text-to-speech (first time activation may take a few minutes)
@@ -175,25 +189,11 @@ My programming journey began just 10 months ago, accelerated by AI tools like De
 6. [My First AI Project](https://chat.goat.africa/)
 7. [Dev Profile](https://dev.goat.africa/)
 
-## 📸 Screenshots
-
-Mobile responsive and frictionless scrolling on any device. Screenshots for reference only - final output depends on browser zoom and device settings.
-
-### Desktop (Light Mode)
-<img src="./public/images/Macbook-Air-chat.bull.africa.png" alt="Desktop Light Mode" width="100%"/>
-
-### Desktop (Dark Mode)
-<img src="./public/images/Macbook-Air-chat.bull.africa-dark.png" alt="Desktop Dark Mode" width="100%"/>
-
-### Mobile Devices
-More screenshots available for Galaxy S21 Ultra, Xiaomi 12, Google Pixel 6 Pro in [`public/images/`](https://github.com/dreemrworld/chat.bull.africa/tree/main/public/images).
-
 ## ⭐ Why Star This Repo?
 
-Don't star it just because it's free, open-source, and modern. **Star it so more people can discover, use, and benefit from privacy-first AI!**
+Don't star it just because it's free, open-source, and modern. **Star it so more people can discover, use, and benefit from AI!**
 
 - 🚀 **Save Time & Money**: Instant deployment, no complex setup
-- 🔒 **Privacy-First**: Your data stays on your device
 - 🌍 **Global Reach**: 300+ Cloudflare locations
 - 🤝 **Community-Driven**: Help build the future of AI in Africa
 - 🎯 **Easy to Customize**: Switch AI providers, add features
