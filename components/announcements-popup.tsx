@@ -2,7 +2,13 @@
 
 import * as React from "react";
 import { InfoIcon } from "lucide-react";
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
+import {
+  Dialog,
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
 import { recentAnnouncements, Announcement } from "@/lib/announcements";
 
@@ -31,7 +37,10 @@ export function AnnouncementsPopup() {
         <div className="max-h-96 overflow-y-auto">
           <div className="space-y-4">
             {recentAnnouncements.map((announcement) => (
-              <AnnouncementItem key={announcement.id} announcement={announcement} />
+              <AnnouncementItem
+                key={announcement.id}
+                announcement={announcement}
+              />
             ))}
           </div>
         </div>
@@ -42,11 +51,15 @@ export function AnnouncementsPopup() {
 
 function AnnouncementItem({ announcement }: { announcement: Announcement }) {
   return (
-    <div className="rounded-lg border p-4 shadow-sm hover:shadow-md transition-shadow duration-300 ease-in-out">
+    <div className="rounded-lg border p-4 shadow-sm transition-shadow duration-300 ease-in-out hover:shadow-md">
       <div className="flex items-start justify-between">
         <div className="space-y-2">
-          <h3 className="font-semibold text-foreground">{announcement.title}</h3>
-          <p className="text-sm text-muted-foreground">{announcement.content}</p>
+          <h3 className="font-semibold text-foreground">
+            {announcement.title}
+          </h3>
+          <p className="text-sm text-muted-foreground">
+            {announcement.content}
+          </p>
         </div>
       </div>
       <div className="mt-3 flex items-center justify-between text-xs text-muted-foreground">

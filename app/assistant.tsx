@@ -1,6 +1,9 @@
 "use client";
 
-import { AssistantRuntimeProvider, AssistantCloud, WebSpeechSynthesisAdapter } from "@assistant-ui/react";
+import {
+  AssistantRuntimeProvider,
+  WebSpeechSynthesisAdapter,
+} from "@assistant-ui/react";
 import {
   useChatRuntime,
   AssistantChatTransport,
@@ -16,14 +19,8 @@ import { Separator } from "@/components/ui/separator";
 import { ThemeToggle } from "@/components/theme-toggle";
 import { AnnouncementsPopup } from "@/components/announcements-popup";
 
-const cloud = new AssistantCloud({
-  baseUrl: process.env["NEXT_PUBLIC_ASSISTANT_BASE_URL"]!,
-  anonymous: true,
-});
-
 export const Assistant = () => {
   const runtime = useChatRuntime({
-    cloud,
     transport: new AssistantChatTransport({
       api: "/api/chat",
     }),

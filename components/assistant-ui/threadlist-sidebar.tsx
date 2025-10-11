@@ -48,8 +48,7 @@ export function ThreadListSidebar({
       <SidebarRail />
       <SidebarFooter className="aui-sidebar-footer border-t">
         <SidebarMenu>
-          <SidebarMenuItem>
-          </SidebarMenuItem>
+          <SidebarMenuItem></SidebarMenuItem>
         </SidebarMenu>
       </SidebarFooter>
     </Sidebar>
